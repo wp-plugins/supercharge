@@ -25,8 +25,6 @@ Customizing these apps is also easy. You simply need to select color choices, an
 * Attractive loaders to keep your users glued
 * Drives sales by capturing your customer’s attention and directing them to your most important products and deals. Add this to your website and get people clicking!
 
-
-
 == Installation ==
 
 1. Upload `supercharge` to the `/wp-content/plugins/` directory
